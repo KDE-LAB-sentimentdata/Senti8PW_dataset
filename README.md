@@ -6,6 +6,7 @@ The number of images in the dataset are as follows: Surprise (300), Sadness (300
 
 You must read Dataset_detail
 
+#Image for each emotion of Senti8PW
 ![sample](image/sample.jpg)
 
 
