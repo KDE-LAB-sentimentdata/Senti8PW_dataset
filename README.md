@@ -8,6 +8,8 @@ We write about dataset in detail.
 Please read Dataset_detail.
 
 If you have any question, please send us e-mail.
+e-mail is as below.
+
 <asakawa@kde.cs.tut.ac.jp>
 
 # Illustrated Plutchik’s wheel of emotions.
