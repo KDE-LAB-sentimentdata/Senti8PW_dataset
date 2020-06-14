@@ -6,7 +6,7 @@ The number of images in the dataset are as follows: Surprise (300), Sadness (300
 
 You must read Dataset_detail
 
-
+![sample](image/sample.jpg)
 
 
 <asakawa@kde.cs.tut.ac.jp>
