@@ -2,8 +2,9 @@ We build Senti8PW dataset.
 
 We employ Amazon Mechanical Turk (AMT).
 Each image in this dataset is manually annotated with a sentiment label by AMT workers. 
-Specifically, five AMT workers are recruited to generate sentiment label (Surprise, Sadness, Joy, Disgust, Anger, Fear, Trust and Anticipation) for each image. 
+Specifically, five AMT workers are recruited to generate sentiment label 
+(Surprise, Sadness, Joy, Disgust, Anger, Fear, Trust and Anticipation) for each image. 
 In building visual sentiment dataset, we call Senti8PW. 
-An example of images corresponding to each emotion of Senti8PW is depicted in Example image.
+An example of images corresponding to each emotion of Senti8PW is depicted in example image.
 
 <asakawa@kde.cs.tut.ac.jp>
