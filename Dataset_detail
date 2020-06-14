@@ -1,10 +1,18 @@
 We build Senti8PW dataset.
 
+To build the visual sentiment dataset, 
+we collect a large set of images from a source. 
+We first search for emotional images on Flickr [21] using the 8 keywords 
+(Surprise, Sadness, Joy, Disgust, Anger, Fear, Trust and Anticipation). 
+This keywords base on Plutchik’s wheel of emotions illustrated in Top figure.
+
+
+
 We employ Amazon Mechanical Turk (AMT).
 Each image in this dataset is manually annotated with a sentiment label by AMT workers. 
 Specifically, five AMT workers are recruited to generate sentiment label 
 (Surprise, Sadness, Joy, Disgust, Anger, Fear, Trust and Anticipation) for each image. 
 In building visual sentiment dataset, we call Senti8PW. 
-An example of images corresponding to each emotion of Senti8PW is depicted in example image.
+An example of images corresponding to each emotion of Senti8PW is depicted in Bottom figure.
 
 <asakawa@kde.cs.tut.ac.jp>
