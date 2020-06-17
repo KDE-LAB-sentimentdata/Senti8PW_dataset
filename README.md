@@ -17,3 +17,6 @@ e-mail is as below.
 
 # Image for each emotion of Senti8PW
 ![sample](image/sample.jpg)
+
+If you want to get dataset, please click link as below.
+https://drive.google.com/drive/folders/1fP-U6r7J1dVFukAkKtUYWzXhNBVUYr-p?usp=sharing
