@@ -20,3 +20,21 @@ e-mail is as below.
 
 If you want to get dataset, please click link as below.
 https://drive.google.com/drive/folders/1fP-U6r7J1dVFukAkKtUYWzXhNBVUYr-p?usp=sharing
+
+
+@inproceedings{DBLP:conf/apsipa/AsakawaA20,
+  author    = {Tetsuya Asakawa and
+               Masaki Aono},
+  title     = {Visual Sentiment Analysis for Few-Shot Image Classification Based
+               on Metric Learning},
+  booktitle = {Asia-Pacific Signal and Information Processing Association Annual
+               Summit and Conference, {APSIPA} 2020, Auckland, New Zealand, December
+               7-10, 2020},
+  pages     = {1081--1086},
+  publisher = {{IEEE}},
+  year      = {2020},
+  url       = {https://ieeexplore.ieee.org/document/9306328},
+  timestamp = {Thu, 11 Feb 2021 12:13:08 +0100},
+  biburl    = {https://dblp.org/rec/conf/apsipa/AsakawaA20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
